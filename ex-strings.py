@@ -31,4 +31,5 @@ print(message)
 message = message.lower()
 h_count = message.count("h")
 print("Có " + str(h_count) + " ký tự h bên trong message trên.")
+print("Có", h_count, "ký tự h bên trong message trên.")
 
