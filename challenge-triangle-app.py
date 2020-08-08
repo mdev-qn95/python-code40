@@ -4,7 +4,7 @@ import math
 print("Welcome to the Right Triangle Solver App")
 
 # Get user input
-side_a = float(input(" \nWhat is the first leg of the triangle: "))
+side_a = float(input("\nWhat is the first leg of the triangle: "))
 side_b = float(input("What is the second leg of the triangle: "))
 
 # Calculations
