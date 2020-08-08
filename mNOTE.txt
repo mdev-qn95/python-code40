@@ -1,0 +1,41 @@
+BASIC DATA TYPES UNIT GOALS
+    Data Types
+        Strings
+        Intergers
+        Floats
+    Control Structure
+        None
+    Operators
+        Assignment Operators
+            = Assignment
+            += Compound Assignment
+            -= Compound Assignment
+            + Concatenation(Strings)
+        Algebraic Operators
+            + Addition(ints and floats)
+            - Subtraction
+            * Multiplication
+            / Division
+            ** Exponentiation
+    Built In Function
+        print()
+        type()
+        str()
+        int()
+        float()
+        input()
+        round()
+    Method
+        .upper()
+        .lower()
+        .title()
+        .strip()
+        .count()
+    External Libraries
+        math
+    Challenge Problems
+        Letter Counter App
+        Miles Per Hour Conversion App
+        Temperature Conversion App
+        Right Triangle Solver App
+        Multiplication/Exponentiation Table Program
